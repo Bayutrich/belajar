@@ -4,4 +4,4 @@ konsisten belajar webprograming
 membuat php sederhana
 memahami dan mengetahui langkah pembuatan
 menjadi professional programer
-dapat mempresentasikan keungulan
+membuat website
