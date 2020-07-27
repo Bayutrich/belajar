@@ -3,5 +3,6 @@ rencana konten
 -membuat website sederhana
   -menambahkan css
 -membuat dan menghubungkan php dengan html
+  -memastikan code sourche berjalan dan bekerja
 -membuat javascript
 -membuat fitur login
