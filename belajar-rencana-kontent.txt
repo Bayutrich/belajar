@@ -1,5 +1,6 @@
 rencana konten
 
 -membuat website sederhana
+  -menambahkan css
 -membuat dan menghubungkan php dengan html
 -membuat fitur login
